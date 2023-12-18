@@ -14,8 +14,24 @@ He integrado diferentes componentes en la página web tales como:
 * Menú desplegable
 * Pestañas agrudapdas con distintos componentes anteriores como carrousel, cards, etc...
 
+# Fotos de la página web
+
+![](img/readme1.png)
+
+![](img/readme2.png)
+
+![](img/readme3.png)
+
+![](img/readme4.png)
+
+![](img/readme5.png)
+
+![](img/readme6.png)
+
+
+
 # Recursos
-Pagina tomada como inspiración:
+Página tomada como inspiración:
 * [Leyre Canizares](https://leyrefotografia.com)
 
 Plantilla de Bootstrap utilizada (en la primera versión):
