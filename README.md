@@ -2,7 +2,7 @@
 
 Prototipo web de tipo presentación realizado con __Bootstrap 5__. La temática es una página web personal centrada en la fotografía de paisajes, bodas y parejas.
 
-Página web del proyecto: [Laura Montoya](https://montoya-laura.000webhostapp.com/index.html)
+Página web del proyecto: [Laura Montoya](https://montoya-laura.000webhostapp.com/)
 
 # Componentes
 
